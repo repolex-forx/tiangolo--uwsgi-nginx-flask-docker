@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/uwsgi-nginx-flask-docker/commit/0547cf8ecbbf76d582e4173dbe7850f28f725455",
       "git:hexsha": "0547cf8ecbbf76d582e4173dbe7850f28f725455",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/uwsgi-nginx-flask-docker/commit/2adde9fb8c2c9a5131cdef5617f4cbe40275fbb9",
