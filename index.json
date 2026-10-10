@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "uwsgi-nginx-flask-docker",
+  "versions": [
+    {
+      "commit": "0547cf8ecbbf76d582e4173dbe7850f28f725455",
+      "tag": "",
+      "parsed_at": "2026-10-10T13:08:27.022963+00:00"
+    }
+  ]
+}
